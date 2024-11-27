@@ -1,6 +1,7 @@
 ## Sales Report :
 
-- **Project objective:** 
+- **Project objective:**
+  
     **1.** Create a _[customer performance report](https://github.com/SudiptaGhosh00/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf)_ to analyze individual customer purchase patterns and profitability.
   
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/SudiptaGhosh00/Excel-Sales-Analysis/blob/main/Market%20Performance%20VS%20Target%20Report.pdf)_ to evaluate the effectiveness of sales strategies and forecast future performance.
